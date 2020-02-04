@@ -1,2 +1,0 @@
-# PrivateTaindFramework
-Small Private Pod
